@@ -1,0 +1,5 @@
+spring.application.name=store
+app.page-size=10
+stripe.apiurl="https://api.stripe.com"
+stripe.supportedcurrency=USD,EUR,GBP
+stripe.timeout=1000
